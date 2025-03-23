@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'sf_pro_display';
+    src: url('../font/Sfpro/SF-Pro-Display-Regular.otf');
+}
+
+@font-face {
+    font-family: 'sf_pro_display_bold';
+    src: url('../font/Sfpro/SF-Pro-Display-Bold.otf');
+}
